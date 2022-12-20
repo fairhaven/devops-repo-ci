@@ -1,2 +1,2 @@
-# devops-repo-ci
-Jenkins CI&CD Pipeline with docker and dockerfile 
+# Devops-Repo-CI & CD
+Jenkins CI & CD Pipeline with docker and dockerfile 
